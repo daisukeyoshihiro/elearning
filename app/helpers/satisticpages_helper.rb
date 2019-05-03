@@ -1,0 +1,2 @@
+module SatisticpagesHelper
+end
